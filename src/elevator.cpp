@@ -1,5 +1,5 @@
 #include "elevator.h"
-#include <bits/stdc++.h>
+#include <algorithm>
 #include <string>
 
 
