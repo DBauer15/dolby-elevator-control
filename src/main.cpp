@@ -10,7 +10,7 @@
 
 int main(int ac, char** av) {
     if (ac < 3) {
-        std::cout << "Please provide NUM_FLOORS and ELEVATOR_SPEED as parameters" << std::endl;
+        std::cout << "Please provide NUM_FLOORS, ELEVATOR_SPEED, and PASSENGER_FREQUENCY as parameters" << std::endl;
         return -1;
     }
 
